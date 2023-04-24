@@ -1,0 +1,13 @@
+.area-design{
+    border: 2px solid sienna;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 15px;
+}
+.child-design{
+    font-weight: bolder;
+    display: flex;
+}
+.btn{
+    border: 1px solid gray;
+}
